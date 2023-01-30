@@ -1,3 +1,4 @@
+changing the file:	
 Day 2 
 git init - Helps us to create empty git repository for us 
 git add README.md - Adding readme file add command helps to add required things to the repository 
